@@ -1,0 +1,23 @@
+{
+    "name": "bitbot",
+    "version": "1.0.0",
+    "description": "Extension for zd robot bitbot V1.0.0",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:lzty634158/pxt-neopixel",
+        "Mbit_IR":  "github:lzty634158/yahboom_mbit_IR"
+	
+
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/mbit-strings.json"
+
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
