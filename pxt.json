@@ -6,7 +6,7 @@
     "dependencies": {
         "core": "*",
         "neopixel": "github:kianwee123/pxt-neopixel",
-        "bitbot_IR":  "github:kianwee123/zdr_bitbot_ir"
+        "bitbot_IR": "github:kianwee123/zdr_bitbot_ir"
 	
 
     },

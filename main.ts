@@ -2,7 +2,7 @@
 Copyright (C): 2017-2020, Shenzhen ZD Robot Tech
 modified from q
 load dependency
-"mbit": "file:../pxt-mbit"
+"bitbot": "file:../pxt-bitbot"
 */
 
 
