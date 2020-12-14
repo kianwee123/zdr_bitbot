@@ -11,3 +11,4 @@ MIT
 * for PXT/microbit
 (The metadata above is needed for package search.)
 # zdr_bitbot
+# zdre_bitbot
